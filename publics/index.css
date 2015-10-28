@@ -1,0 +1,8 @@
+#file{
+	width: 30%;
+	margin:0 auto;
+	margin-top:50px;
+}
+#showUl li:hover,#showUl li:visited{
+	background: gray;
+}
